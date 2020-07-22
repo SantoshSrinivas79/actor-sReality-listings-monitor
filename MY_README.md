@@ -12,3 +12,10 @@ Create an input file in a subdirectory of root folder `apify_storage/key_value_s
   }
 }
 ```
+
+Run locally using apify with the following command:
+
+```sh
+# credit: [Apify Platform · Apify SDK](https://sdk.apify.com/docs/guides/apify-platform)
+apify run -p
+```
